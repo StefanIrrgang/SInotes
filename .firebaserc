@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "sinotes-371d6": {
+      "hosting": {
+        "DAKeep": [
+          "sinotes-371d6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "sinotes-371d6"
+  }
+}
